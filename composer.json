@@ -1,5 +1,5 @@
 {
-    "name": "vendor/autoload",
+    "name": "Emmanuelonyo/Basqet_PHPSDK",
     "description": "php library for basqet recieve payments in cryptocurency",
     "type": "library",
     "require": {
