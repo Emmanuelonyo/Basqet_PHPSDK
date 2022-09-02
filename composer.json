@@ -1,0 +1,22 @@
+{
+    "name": "vendor/autoload",
+    "description": "php library for basqet recieve payments in cryptocurency",
+    "type": "library",
+    "require": {
+        "vlucas/phpdotenv": "^5.4",
+        "guzzlehttp/guzzle": "^7.5"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Vendor\\Autoload\\": "src/",
+            "Basqet\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Emmanuel onyo",
+            "email": "emmanuelonyo34@gmail.com"
+        }
+    ]
+}
