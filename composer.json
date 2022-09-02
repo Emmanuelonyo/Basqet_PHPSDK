@@ -1,5 +1,5 @@
 {
-    "name": "Emmanuelonyo/Basqet_PHPSDK",
+    "name": "emmanuelonyo/basqet-php-sdk",
     "description": "php library for basqet recieve payments in cryptocurency",
     "type": "library",
     "require": {
