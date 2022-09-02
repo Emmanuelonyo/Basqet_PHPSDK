@@ -8,7 +8,7 @@ The Official PHP library for the Basqet API.
 Initialize the Project With Composer and clone the repo
 
 ```bash
-  composer require Emmanuelonyo/Basqet_PHPSDK 
+  composer require emmanuelonyo/basqet-php
 ```
 
 ## Usage/Examples
