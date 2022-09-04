@@ -17,8 +17,6 @@ Initialize the Project With Composer and clone the repo
 
 ```php
 use Basqet\Basqet;
-require __DIR__. "/vendor/autoload.php";
-
 $Basqet = new Basqet($_ENV['BASQET_SECRET_KEY'],$_ENV['BASQET_PUBLIC_KEY']);
 
 ```
